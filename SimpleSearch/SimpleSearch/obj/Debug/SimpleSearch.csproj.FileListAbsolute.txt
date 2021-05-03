@@ -1,0 +1,6 @@
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/bin/Debug/SimpleSearch.exe
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/bin/Debug/SimpleSearch.pdb
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/obj/Debug/SimpleSearch.csprojAssemblyReference.cache
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/obj/Debug/SimpleSearch.csproj.CoreCompileInputs.cache
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/obj/Debug/SimpleSearch.exe
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/obj/Debug/SimpleSearch.pdb

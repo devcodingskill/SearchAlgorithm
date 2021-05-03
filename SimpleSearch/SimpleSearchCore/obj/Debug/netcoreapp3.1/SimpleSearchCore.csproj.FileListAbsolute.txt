@@ -1,0 +1,12 @@
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/obj/Debug/netcoreapp3.1/SimpleSearchCore.csprojAssemblyReference.cache
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/obj/Debug/netcoreapp3.1/SimpleSearchCore.AssemblyInfoInputs.cache
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/obj/Debug/netcoreapp3.1/SimpleSearchCore.AssemblyInfo.cs
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/obj/Debug/netcoreapp3.1/SimpleSearchCore.csproj.CoreCompileInputs.cache
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/bin/Debug/netcoreapp3.1/SimpleSearchCore.deps.json
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/bin/Debug/netcoreapp3.1/SimpleSearchCore.runtimeconfig.json
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/bin/Debug/netcoreapp3.1/SimpleSearchCore.runtimeconfig.dev.json
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/bin/Debug/netcoreapp3.1/SimpleSearchCore.dll
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/bin/Debug/netcoreapp3.1/SimpleSearchCore.pdb
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/obj/Debug/netcoreapp3.1/SimpleSearchCore.dll
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/obj/Debug/netcoreapp3.1/SimpleSearchCore.pdb
+/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearchCore/obj/Debug/netcoreapp3.1/SimpleSearchCore.genruntimeconfig.cache

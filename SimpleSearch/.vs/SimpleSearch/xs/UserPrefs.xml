@@ -1,16 +1,17 @@
-﻿<Properties StartupConfiguration="{6D144AFF-351E-42C2-A6EB-6FD12F2A730F}|Default">
-  <MonoDevelop.Ide.ItemProperties.SimpleSearch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleSearch/Program.cs">
+﻿<Properties StartupConfiguration="{CE315636-B9A1-42E5-9F8A-B1B76498A5A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest/UnitTest1.cs">
     <Files>
-      <File FileName="SimpleSearch/Program.cs" Line="1" Column="1" />
+      <File FileName="../../CodeChallenger/CodeTDD/UnitTest/UnitTestReverArray.cs" Line="1" Column="1" />
+      <File FileName="SimpleSearchCore/Program.cs" Line="13" Column="62" />
+      <File FileName="SimpleSearchCore/Solution.cs" Line="30" Column="27" />
+      <File FileName="UnitTest/UnitTest1.cs" Line="7" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SimpleSearch" expanded="True">
-            <Node name="SimpleSearch" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="SimpleSearchCore" expanded="True" />
+            <Node name="UnitTest" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -19,12 +20,28 @@
           <Value>]</Value>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SimpleSearch" selected="True" />
+        </State>
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SimpleSearchCore FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UnitTest FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>UnitTesting/UnitTesting.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/Solution.cs" relfile="SimpleSearch/Solution.cs" line="32" column="1" />
+      <Breakpoint file="/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/Solution.cs" relfile="SimpleSearch/Solution.cs" line="12" column="1" />
+      <Breakpoint file="/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/Solution.cs" relfile="SimpleSearch/Solution.cs" line="18" column="1" />
+      <Breakpoint file="/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/Solution.cs" relfile="SimpleSearch/Solution.cs" line="27" column="1" />
+      <Breakpoint file="/Users/yutthanatantinimitchok/Projects/SearchAlgorithm/SimpleSearch/SimpleSearch/Program.cs" relfile="SimpleSearch/Program.cs" line="15" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
